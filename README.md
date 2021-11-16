@@ -1,5 +1,5 @@
 # P1-Madlib
-This project was created by Shelby Jorgensen for my CSCI-151 class, Programming with C++. This project was the first in this course, and taught us how to work with arrays, the commands both in and out, and the basic set up of a C++ program. Below, I have attached the outline that was provided for this project.
+This project was created by Shelby Jorgensen for my CSCI-151 class, Programming with C++. This project was the first in this course, and taught us how to work with arrays, the input and output streams, and the basic set up of a C++ program. Below, I have attached the outline that was provided for this project.
 
 Outline:
 Mad Libs
